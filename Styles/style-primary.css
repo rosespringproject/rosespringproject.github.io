@@ -1,0 +1,33 @@
+/* Navigation Bar Style Start */
+
+.navbar {
+    background-color: red;
+}
+
+.navbar-text {
+    color: lightgrey;
+
+}
+
+.navbar-text:hover {
+    color: lightgrey;
+}
+
+.navbar-text:focus {
+    color: white;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+.navbar-brand:hover {color: white;}
+.navbar-brand:focus {color: white;}
+
+
+#nav-hamburger {
+    filter: invert(94%) sepia(100%) saturate(0%) hue-rotate(194deg) brightness(106%) contrast(101%);
+}
+
+/* Navigation Bar Style End */
